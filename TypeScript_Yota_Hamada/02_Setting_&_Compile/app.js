@@ -1,5 +1,3 @@
-let age: number;
-age = 30;
+"use strict";
 const userName = "Maximiliam";
-
 console.log(userName);
